@@ -1,0 +1,16 @@
+{
+  "name": "SP500_Downturns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sp500Downturns.js",
+  "dependencies": {
+    "csvtojson": "^1.1.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
